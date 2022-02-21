@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(138,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(138,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(139,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(139,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(140,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(140,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(141,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(141,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(183,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\samuel\Documents\OpenGLSetup\OpenGLSetup\main.cpp(210,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  LINK : C:\Users\samuel\Documents\OpenGLSetup\x64\Debug\OpenGLSetup.exe not found or not built by the last incremental link; performing full link
+  OpenGLSetup.vcxproj -> C:\Users\samuel\Documents\OpenGLSetup\x64\Debug\OpenGLSetup.exe
+          1 file(s) copied.
