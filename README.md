@@ -1,4 +1,4 @@
-# OpenGLSetup
+# 3D Shooter
 
 Description:
 
